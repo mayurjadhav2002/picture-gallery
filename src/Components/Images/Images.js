@@ -35,7 +35,7 @@ src={data.user.profile_image .small}
                 <img 
 
 src={data.urls.small}                alt={data.urls.alt_description}
-                 className='bg-opacity-90 m-auto object-contain  w-full h-fit -z-10 '
+                 className='bg-opacity-90 m-auto h-full  w-full -z-10 '
              />
                  
                 </Link>

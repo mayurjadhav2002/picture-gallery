@@ -1,10 +1,29 @@
-# Getting Started with Create React App
+# Picture Gallery Application
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Picture Gallery Application is a part of an Assignment.
+ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo 
+Demo of this application can be found on [Click this link](https://github.com/facebook/create-react-app)
 
-## Available Scripts
+## How to Use the Application:
 
-In the project directory, you can run:
+1. Open the Picture Gallery application.
+2. You will see a text input field where you can enter a category name (e.g., "food" or "landscape").
+3. Type the desired category name into the text input field.
+4. Click on the "Search" button to retrieve relevant pictures from Unsplash.com based on the entered category name.
+5. The retrieved pictures will be displayed in a grid format on the screen.
+6. Scroll through the grid to view all the pictures.
+7. Each picture will have the author's name, a description, and a link to the original picture on Unsplash.com.
+8. Click on the link to view the original picture on Unsplash.com.
+
+
+
+
+## How to use this repo:
+Clone this repo.  and Edit .env file in root folder. \
+Enter Your API key from Unsplash.com
+
+
 
 ### `npm start`
 
