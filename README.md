@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
 
 ## Demo 
-Demo of this application can be found on [Click this link](https://github.com/facebook/create-react-app)
+Demo of this application can be found on [Click this link](https://clever-sherbet-ea1a0e.netlify.app/)
 
 ## How to Use the Application:
 
